@@ -36,7 +36,7 @@ Anthropic 官方课程平台 [anthropic.skilljar.com](https://anthropic.skilljar
 ## 阅读方式
 
 - **在线阅读**：直接查看 [anthropic-courses-complete-cn.md](anthropic-courses-complete-cn.md)
-- **PDF 下载**：前往 [Releases](https://github.com/tanweai/Anthropic-Academy/releases) 下载 PDF 版本（含水印，适合打印和离线阅读）
+- **PDF 下载**：[anthropic-courses-complete-cn.pdf](anthropic-courses-complete-cn.pdf)
 
 ## License
 
