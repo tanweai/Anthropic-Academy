@@ -8,6 +8,8 @@
 
 Anthropic 官方课程平台 [anthropic.skilljar.com](https://anthropic.skilljar.com) 全部 **13 门课程**的完整中文翻译。
 
+将视频课程转为文字版，无需观看视频即可快速掌握全部内容。适合想高效学习 Claude 生态的开发者和从业者。
+
 ## 课程列表
 
 **入门与素养**
